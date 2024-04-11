@@ -1,2 +1,2 @@
 # responsivecards
-A demo for responsive cards
+A prototype for responsive cards
